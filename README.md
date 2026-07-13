@@ -18,20 +18,20 @@ Generate insights that support environmental awareness and data-driven decision-
 
 Tools & Technologies
 
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python,
+Jupyter Notebook,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn.
 
 Project Workflow
 
-Import the dataset.
-Perform data cleaning and preprocessing.
-Handle missing values and correct data types.
-Conduct Exploratory Data Analysis (EDA).
-Create visualizations to compare AQI across locations.
+Import the dataset,
+Perform data cleaning and preprocessing,
+Handle missing values and correct data types,
+Conduct Exploratory Data Analysis (EDA),
+Create visualizations to compare AQI across locations,
 Interpret findings and summarize key insights.
 
 Outcome 
