@@ -19,10 +19,15 @@ Generate insights that support environmental awareness and data-driven decision-
 Tools & Technologies
 
 Python,
+
 Jupyter Notebook,
+
 Pandas,
+
 NumPy,
+
 Matplotlib,
+
 Seaborn.
 
 Project Workflow
