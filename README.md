@@ -2,7 +2,7 @@
 
 **🌍 Real-Time Air Quality Index Analysis from Various Locations in India**
 
-**Project Overview**
+**Project Overview** 
 
 This project analyzes Real-Time Air Quality Index (AQI) data collected from various locations across India to understand pollution levels, identify trends, and compare air quality between different cities. The analysis includes data cleaning, preprocessing, exploratory data analysis (EDA), and visualizations to provide meaningful insights into the country's air quality.
 The project is developed using Python in Jupyter Notebook, leveraging data analysis and visualization libraries to transform raw AQI data into interactive charts and actionable insights. Air quality analysis commonly focuses on pollutants such as PM2.5, PM10, NO₂, SO₂, CO, and O₃ to assess environmental conditions and their potential health impact.
