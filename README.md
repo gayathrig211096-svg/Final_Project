@@ -34,9 +34,43 @@ Conduct Exploratory Data Analysis (EDA).
 Create visualizations to compare AQI across locations.
 Interpret findings and summarize key insights.
 
-Outcome
+Outcome 
 
-The project provides a comprehensive analysis of real-time air quality across various locations in India, helping users understand pollution patterns and evaluate environmental conditions through clear visualizations and statistical analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
