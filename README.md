@@ -10,34 +10,44 @@ The project is developed using Python in Jupyter Notebook, leveraging data analy
 Objectives
 
 Analyze real-time AQI data from multiple locations in India.
+
 Clean and preprocess the dataset for accurate analysis.
+
 Compare AQI values across different cities.
+
 Identify pollution trends and patterns.
+
 Visualize air quality using charts and graphs.
+
 Generate insights that support environmental awareness and data-driven decision-making.
 
 Tools & Technologies
 
-Python,
+Python
 
-Jupyter Notebook,
+Jupyter Notebook
 
-Pandas,
+Pandas
 
-NumPy,
+NumPy
 
-Matplotlib,
+Matplotlib
 
-Seaborn.
+Seaborn
 
 Project Workflow
 
-Import the dataset,
-Perform data cleaning and preprocessing,
-Handle missing values and correct data types,
-Conduct Exploratory Data Analysis (EDA),
-Create visualizations to compare AQI across locations,
-Interpret findings and summarize key insights.
+Import the dataset
+
+Perform data cleaning and preprocessing
+
+Handle missing values and correct data types
+
+Conduct Exploratory Data Analysis (EDA)
+
+Create visualizations to compare AQI across locations
+
+Interpret findings and summarize key insights
 
 Outcome 
 
