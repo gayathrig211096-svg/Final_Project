@@ -8,6 +8,7 @@ This project analyzes Real-Time Air Quality Index (AQI) data collected from vari
 The project is developed using Python in Jupyter Notebook, leveraging data analysis and visualization libraries to transform raw AQI data into interactive charts and actionable insights. Air quality analysis commonly focuses on pollutants such as PM2.5, PM10, NO₂, SO₂, CO, and O₃ to assess environmental conditions and their potential health impact.
 
 
+
 Objectives
 
 
